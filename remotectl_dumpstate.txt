@@ -1,5 +1,5 @@
 Local device
-	UUID: 6A5432A4-44C8-4FC4-B866-D70226BC5F1E
+	UUID: XXXXXXXX-44C8-XXXX-B866-XXXXXXXXXXX
 	Messaging Protocol Version: 3
 	Product Type: iPhone13,3
 	OS Build: 15.6.1 (19G82)
