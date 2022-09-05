@@ -25,7 +25,7 @@ Local device
 		ProductName => iPhone OS
 		ProductType => iPhone13,3
 		SerialNumber => HH3HXXXXXXXX
-		BootSessionUUID => 56F49161-5017-4EE4-A31A-7DD3F6EA16D9
+		BootSessionUUID => XXXXXXXX-5017-4EE4-A31A-XXXXXXXXXXXX
 		BoardId => 14
 		DeviceColor => 1
 		EffectiveProductionStatusAp => true
